@@ -2,6 +2,10 @@
 # todo: rename the writeYourThought function to yourname_writeYourThought
 # print whatever you want to say to the rest of your peers
 # no nsfw!
+
+def laimonis_writeYourThought():
+    print("Awesome")
+
 def BenjaminYourThought():
     print("SCUFFED")
 
@@ -17,4 +21,5 @@ def anna20121_writeYourThought():
 
 def Caspar_writeYourThought():
     print("PID control in simulink is giving me a headache")
+
 
